@@ -1,12 +1,12 @@
 # Land cover mapping with multimodal satellite imagery: a high-order heterogeneous knowledge modulation strategy for land use classification under various cloudy conditions
 ## Jiangong Xu, Weibao Xue, Xiaoyu Yu, Jun Pan, Mi Wang, Junli Li
-![p1](https://github.com/user-attachments/assets/7643014c-698d-4173-bb91-203a4492eaaa)
+![p1](https://github.com/RSIIPAC/CloudLULC/blob/main/Subsidiaries/conceptual.png)
 To mitigate the impact of cloud contamination on spatiotemporal seamless LULC mapping and overcome the limitations of existing multimodal fusion methods, this study proposes a novel LULC mapping framework, called the multi-model high-order collaboration network (MHC-Net).
 
 ## Dataset
 We have also developed the first public dataset, LuojiaSET-PolCR, which explicitly introduces PolSAR polarimetric scattering characteristics into cloud-contaminated optical satellite image reconstruction to advance research in this field.
-Links to **[here](https://www.wenjuan.com/s/uQVZnag/#)** download the data.
-![p2](https://github.com/user-attachments/assets/c89fb398-8c96-4fc0-b59d-306342bbe7a0)
+Links to **[here](https://www.wenjuan.com/s/JnyMzq1/#)** download the data.
+![p2](https://github.com/RSIIPAC/CloudLULC/blob/main/Subsidiaries/location.png)
 
 We divide all the patches into three subdatasets, namely, training set, validation set, testing, and write the division in a .csv file as:
 ```

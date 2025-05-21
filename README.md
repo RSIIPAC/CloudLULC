@@ -1,5 +1,5 @@
 # Land cover mapping with multimodal satellite imagery: a high-order heterogeneous knowledge modulation strategy for land use classification under various cloudy conditions
-## Jiangong Xu, Weibao Xue, Xiaoyu Yu, Jun Pan, Mi Wang, Junli Li
+## Jiangong Xu, Weibao Xue, Xiaoyu Yu, Jun Pan, Junli Li, Xinlian Liang, Mi Wang
 ![image](https://github.com/RSIIPAC/CloudLULC/blob/main/Subsidiaries/conceptual.png)
 To mitigate the impact of cloud contamination on spatiotemporal seamless LULC mapping and overcome the limitations of existing multimodal fusion methods, this study proposes a novel LULC mapping framework, called the multi-model high-order collaboration network (MHC-Net).
 

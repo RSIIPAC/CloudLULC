@@ -160,7 +160,7 @@ where:
 
 ## Code Release
 
-The source code, pretrained models, and detailed training / inference instructions will be released and updated in this repository.
+The source code, pretrained model weights, and detailed training / inference instructions will be publicly released in this repository after the manuscript is accepted for publication. During the review stage, this repository serves as the official project page for presenting the dataset information, methodological overview, and related project materials.
 
 The planned repository structure is:
 

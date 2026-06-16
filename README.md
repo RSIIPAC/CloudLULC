@@ -1,6 +1,4 @@
-# CloudLULC-Net: Heterogeneous SAR–Optical Fusion for Near-Real-Time LULC Mapping under Cloud Contamination
-
-## Heterogeneous SAR–Optical Fusion for Near-Real-Time Land Use and Land Cover Mapping under Cloud Contamination: A Novel Framework and Global Benchmark Dataset
+# Heterogeneous SAR–Optical Fusion for Near-Real-Time Land Use and Land Cover Mapping under Cloud Contamination: A Novel Framework and Global Benchmark Dataset
 
 **Jiangong Xu, Weibao Xue, Xiaoyu Yu, Jun Pan, Xinlian Liang, Mi Wang**
 
